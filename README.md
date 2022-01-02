@@ -1,6 +1,6 @@
 # NGX Infinite Scroll
 
-!(preview.gif)
+![Placeholder Image](preview.gif)
 
  I've created an infinite list of world breweries using openbrewerydb.org api and NGX Infinit scroll
 
