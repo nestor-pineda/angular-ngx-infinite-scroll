@@ -1,4 +1,8 @@
-# NGXInfiniteScroll
+# NGX Infinite Scroll
+
+!(preview.gif)
+
+ I've created an infinite list of world breweries using openbrewerydb.org api and NGX Infinit scroll
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
